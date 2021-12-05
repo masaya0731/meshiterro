@@ -6,7 +6,6 @@ class ApplicationController < ActionController::Base
     post_images_path
   end
 
-
   protected
 
   def configure_permitted_parameters
